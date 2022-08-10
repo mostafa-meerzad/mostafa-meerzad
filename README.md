@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mostafa-meerzad
-- 👀 I’m interested in programming, problem solving, thinking about diffiren parts of something and web technologies.
-- 🌱 I’m currently learning front-end web development and python programming
-- 💞️ I’m looking to collaborate on front-end projects for beginners and some python projects
+- 👋 Hi, I’m mostafa-meerzad
+- 💞️ I’m interested in programming, problem solving, making good looking websites.
+- 👀 I’m currently looking for a React.js development job as a junior developer.
+-  
 <!--- - 📫 How to reach me ...
 --->
 
