@@ -1,11 +1,9 @@
-- 👋 Hi, I’m mostafa-meerzad
-- 💞️ I’m interested in programming, problem solving, making good looking websites.
-- 👀 I’m currently looking for a React.js development job as a junior developer.
+👋 Hey there! I'm Mostafa Meerzad, a passionate frontend web developer on a mission to craft stunning websites and apps.
 
-<!--- - 📫 How to reach me ...
---->
+💻 My journey revolves around writing clean, efficient code to bring your web ideas to life. I thrive on the challenges of turning design into seamless user experiences.
 
-<!---
-mostafa-meerzad/mostafa-meerzad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌟 Whether it's conquering coding challenges or diving into the latest web technologies, I'm always up for the adventure of learning and innovation.
+
+🚀 Join me as I explore the ever-evolving world of web development and turn pixels into magic.
+
+📫 Let's connect: linkedin.com/in/mostafa-meerzad-a753371b7
