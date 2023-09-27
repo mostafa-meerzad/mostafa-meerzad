@@ -6,4 +6,4 @@
 
 🚀 Join me as I explore the ever-evolving world of web development and turn pixels into magic.
 
-📫 Let's connect: linkedin.com/in/mostafa-meerzad-a753371b7
+📫 Let's connect: [linkedin.com/in/mostafa-meerzad-a753371b7]
