@@ -1,6 +1,3 @@
-<!-- Upload banner.jpeg to YOUR repo (mostafa-meerzad/mostafa-meerzad) and reference it like this: -->
-![Banner](./banner.jpeg)
-
 ### Hi, I'm **Mostafa Meerzad** 👋
 
 💻 **Full-Stack Developer | TypeScript · React · Node.js | Open to Remote Work**
