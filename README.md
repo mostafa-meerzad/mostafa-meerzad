@@ -57,7 +57,7 @@ Open to remote full-time roles and freelance projects.
 ### 🌟 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats-dun-two-95.vercel.app/api?username=mostafa-meerzad&show_icons=true&theme=transparent&hide=contribs&hide_rank=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats-dun-two-95.vercel.app/api/top-langs/?username=mostafa-meerzad&theme=transparent&layout=compact&hide=html,css,scss&size_weight=0.5&count_weight=0.5" height="165" alt="GitHub stats" />
   <img src="https://github-readme-stats-dun-two-95.vercel.app/api/top-langs/?username=mostafa-meerzad&theme=transparent&layout=compact&hide=html,css,scss" height="165" alt="Top languages" />
 </p>
 
