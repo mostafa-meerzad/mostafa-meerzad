@@ -57,8 +57,8 @@ Open to remote full-time roles and freelance projects.
 ### 🌟 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafa-meerzad&show_icons=true&theme=transparent&hide=contribs" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-meerzad&theme=transparent&layout=compact" height="165" alt="Top languages" />
+  <img src="https://vercel.com/mostafas-projects-01d89a75/github-readme-stats" height="165" alt="GitHub stats" />
+  <img src="https://vercel.com/mostafas-projects-01d89a75/github-readme-stats" height="165" alt="Top languages" />
 </p>
 
 <p>
