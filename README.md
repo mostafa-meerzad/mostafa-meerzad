@@ -58,9 +58,12 @@ Open to remote full-time roles and freelance projects.
 
 <p>
   <img src="https://github-readme-stats-dun-two-95.vercel.app/api?username=mostafa-meerzad&show_icons=true&theme=transparent&hide=contribs&hide_rank=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats-dun-two-95.vercel.app/api/top-langs/?username=mostafa-meerzad&theme=transparent&layout=compact&hide=html,css,scss&size_weight=0.5&count_weight=0.5" height="165" alt="Top languages" />
 </p>
 
 <p>
   <img src="https://streak-stats.demolab.com?user=mostafa-meerzad&theme=transparent" alt="Contribution streak" />
+</p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafa-meerzad&theme=github-compact&hide_border=true" alt="Contribution activity graph" />
 </p>
